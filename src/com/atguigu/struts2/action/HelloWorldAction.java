@@ -14,7 +14,7 @@ public class HelloWorldAction {
 	 */
 	public String hello() throws Exception{
 		
-		System.out.println("Hello,Struts2!");
+		System.out.println("Hello,Struts2!1111");
 		
 		return "success";
 	}
