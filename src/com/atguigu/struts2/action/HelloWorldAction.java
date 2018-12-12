@@ -12,10 +12,11 @@ public class HelloWorldAction {
 	 * @return
 	 * @throws Exception
 	 */
-	public String hello() throws Exception{
-		
+	public String hello() throws Exception{		
 		System.out.println("Hello,Struts2!11114444555666");
-		
+		System.out.println("22222");
+		System.out.println("33333");
+		System.out.println("44444");
 		return "success";
 	}
 	
